@@ -1,0 +1,147 @@
+body{
+    background-color: #f6dee9;
+    background-image: url("https://i.pinimg.com/564x/54/ae/04/54ae0479b040e8ad4fbe6f87df049add.jpg");
+    display:cover;
+}
+.head{
+  
+    margin-left:0;
+    top:0;
+    height:90px;
+    width:250px;
+    opacity:0.7;
+
+    color:rgb(52, 3, 28);
+    position:fixed;
+    font-size: 33px;
+    /* background-color: whitesmoke; */
+    text-align:center;
+    /* background-image: url("back.jpg");
+    background-size: cover; */
+    opacity: 1;
+
+
+
+}
+.head:hover{
+    opacity:0.7;
+    box-shadow: #f6dee9;
+    
+}
+
+
+.upper{
+    margin-top: 100px;
+    display:flex;
+    flex-direction: row;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#4a2c3e ;
+     color:aliceblue;
+  
+
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+.mycls{
+    
+    display:inline-block;
+    height:350px;
+    width:950px;
+    margin-right:30px;
+  display:flex;
+  flex-direction:row;
+  color:black;
+  font-style:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:150%;
+  margin-top: 0;
+   
+  
+}
+p{
+    color:#4E0829;
+    /* text-align:left; */
+    /* margin-left:50px; */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.myimage{
+     margin-left:145px; 
+     margin-top: 50px; 
+     
+     
+}
+
+.table{
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:250px;
+}
+.AA{
+    opacity: 0.9;
+    height:300px ;
+    border-radius: 50%;
+    /* box-shadow: 22px 22px 22px  rgba(114, 114, 114, 0.6); */
+             
+           
+   
+}
+.AA:hover {
+    opacity: 0.7;
+    box-shadow: 22px 22px 22px  rgba(114, 114, 114, 0.6);
+   transition-duration: 1s ;
+
+}
+.cls{
+    
+    display:inline-block;
+    width:100px;
+    height:350px;
+    border-radius: 50%;
+margin-left:0;
+    margin-top:0px;
+    
+
+}
+h2{
+    color:#a9517a;
+    text-align:center;
+}
+h2:hover{
+    opacity:0.8;
+    box-shadow: pink;
+    
+}
+
+button{
+    
+   height:25px;
+   width:100px;
+    /* display:flex;
+    flex-direction:row; */
+    /* margin-left:580px; */
+     cursor:default;
+ opacity:0.9;
+ background-color:white;
+ border:none;
+    
+                font-size: 34 ;
+
+ 
+}
+button:hover{
+    color:turquoise;
+}
+.container1{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+
+

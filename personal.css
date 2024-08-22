@@ -1,0 +1,44 @@
+@import url(profile.css);
+.container{
+   
+    display:flex;
+    flex-direction:row;
+    width:1200px;
+    justify-items:center;
+    justify-content: space-around;
+    
+}
+.box1{
+    background-color: rgb(235, 199, 212);
+    width:350px;
+    height:350px;
+    border-radius:5%;
+    text-align: center;
+    color:#9f4b6a;
+    font-size:x-large;
+    margin-top:50px;
+   
+ 
+}
+.box2{
+    background-color: rgb(235, 199, 212);
+    width:350px;
+    height:350px;
+    border-radius:5%;
+    text-align: center;
+    color:#9f4b6a;
+    font-size:x-large;
+    margin-top:50px;
+    
+}
+.box3{
+    background-color:  rgb(235, 199, 212);
+    width:350px;
+    height:350px;
+    border-radius:5%;
+    text-align: center;
+    color:#9f4b6a;
+    font-size:x-large;
+    margin-top:50px;
+}
+
